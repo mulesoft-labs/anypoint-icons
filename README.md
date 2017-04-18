@@ -1,19 +1,18 @@
-[![Build Status](https://travis-ci.org/advanced-rest-client/arc-icons.svg?branch=stage)](https://travis-ci.org/advanced-rest-client/arc-icons)  
+[![Build Status](https://travis-ci.org/advanced-rest-client/anypoint-icons.svg?branch=stage)](https://travis-ci.org/advanced-rest-client/anypoint-icons)  
 
-# arc-icons
+# anypoint-icons
 
-A set of icons for Advanced REST Client.
-This library exists to not import all material/iron icons to the app but only those are required.
+A set of Anypoint icons to be used in web components.
 
 Include library into the document / element:
 ```
-<link rel="import" href="../arc-icons/arc-icons.html">
+<link rel="import" href="../anypoint-icons/anypoint-icons.html">
 ```
 
-To use an icon from this set you mys prefix `iron-icon` with the `arc`, followed by a colon, ":", and then the icon id.
+To use an icon from this set you should prefix `iron-icon` with the `anypoint`, followed by a colon, ":", and then the icon id.
 
 Example using the directions-bus icon from the maps icon set:
 ```
-<iron-icon icon="arc:assignment"></iron-icon>
+<iron-icon icon="anypoint:application"></iron-icon>
 ```
 
