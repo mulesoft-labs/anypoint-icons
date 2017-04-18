@@ -1,3 +1,13 @@
+<a name="0.1.1"></a>
+## 0.1.1 (2017-04-18)
+
+
+### Fix
+
+* Fixed travis configuration ([eaae6e531d4334f40ffe42c5b34fdbb95ed9be8e](https://github.com/advanced-rest-client/anypoint-icons/commit/eaae6e531d4334f40ffe42c5b34fdbb95ed9be8e))
+
+
+
 <a name="1.0.15"></a>
 ## [1.0.15](https://github.com/advanced-rest-client/arc-icons/compare/1.0.14...v1.0.15) (2017-03-31)
 
