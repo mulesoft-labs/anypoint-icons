@@ -1,8 +1,8 @@
 {
-  "name": "arc-icons",
-  "version": "1.0.15",
+  "name": "anypoint-icons",
+  "version": "0.1.0",
   "license": "LICENSE.md",
-  "description": "An icons set for Advanced REST client.",
+  "description": "Anypoint icons set.",
   "devDependencies": {
     "polymer-cli": "^0.17.0"
   },
@@ -22,6 +22,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/advanced-rest-client/arc-icons.git"
+    "url": "git://github.com/advanced-rest-client/anypoint-icons.git"
   }
 }
