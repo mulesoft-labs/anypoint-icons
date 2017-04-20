@@ -1,3 +1,13 @@
+<a name="0.1.8"></a>
+## [0.1.8](https://github.com/advanced-rest-client/anypoint-icons/compare/0.1.7...v0.1.8) (2017-04-20)
+
+
+### Update
+
+* Updated arrows up / down icons ([f4070a5f1f0df1cce4aa43794e043d69df67aa8e](https://github.com/advanced-rest-client/anypoint-icons/commit/f4070a5f1f0df1cce4aa43794e043d69df67aa8e))
+
+
+
 <a name="0.1.7"></a>
 ## [0.1.7](https://github.com/advanced-rest-client/anypoint-icons/compare/0.1.6...v0.1.7) (2017-04-20)
 
