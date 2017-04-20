@@ -1,3 +1,13 @@
+<a name="0.1.4"></a>
+## [0.1.4](https://github.com/advanced-rest-client/anypoint-icons/compare/0.1.3...v0.1.4) (2017-04-20)
+
+
+### Update
+
+* Updated icon set ([d2feacdac83d443a470577761945eea4c9819a07](https://github.com/advanced-rest-client/anypoint-icons/commit/d2feacdac83d443a470577761945eea4c9819a07))
+
+
+
 <a name="0.1.3"></a>
 ## [0.1.3](https://github.com/advanced-rest-client/anypoint-icons/compare/0.1.2...v0.1.3) (2017-04-19)
 
