@@ -1,6 +1,6 @@
 {
   "name": "anypoint-icons",
-  "version": "0.1.9",
+  "version": "0.1.11",
   "license": "LICENSE.md",
   "description": "Anypoint icons set.",
   "devDependencies": {
@@ -16,7 +16,7 @@
   "author": "The Advanced REST client authors",
   "scripts": {
     "serve": "node_modules/.bin/polymer serve",
-    "lint": "node_modules/.bin/polymer lint arc-icons.html",
+    "lint": "node_modules/.bin/polymer lint anypoint-icons.html --rules polymer-1",
     "deps": "npm install --quiet && bower install --quiet",
     "update-deps": "npm update --quiet && bower update --quiet"
   },
