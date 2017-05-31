@@ -2,6 +2,9 @@
 
 # anypoint-icons
 
+*Note:** This is closed software and you can't use it in your projects unless
+you are a Mulesoft employee working on internall project.
+
 A set of Anypoint icons to be used in web components.
 
 Include library into the document / element:
