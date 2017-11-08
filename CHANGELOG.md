@@ -1,3 +1,14 @@
+<a name="0.2.2"></a>
+## [0.2.2](https://github.com/advanced-rest-client/anypoint-icons/compare/0.2.1...0.2.2) (2017-11-08)
+
+
+### Update
+
+* Updated remove icon. ([13d8011d91957f030f0bba40b2125f172f3fb564](https://github.com/advanced-rest-client/anypoint-icons/commit/13d8011d91957f030f0bba40b2125f172f3fb564))
+* Updated table icon. ([07241222f0bcc9ad23a51dccb608948612cfd84c](https://github.com/advanced-rest-client/anypoint-icons/commit/07241222f0bcc9ad23a51dccb608948612cfd84c))
+
+
+
 <a name="0.2.1"></a>
 ## [0.2.1](https://github.com/advanced-rest-client/anypoint-icons/compare/0.1.11...0.2.1) (2017-11-08)
 
