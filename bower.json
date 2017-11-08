@@ -12,7 +12,8 @@
   ],
   "private": true,
   "main": [
-    "anypoint-icons.html"
+    "anypoint-icons.html",
+    "arc-icons.html"
   ],
   "repository": {
     "type": "git",
@@ -38,5 +39,5 @@
     ".jscsrc",
     ".jshintrc"
   ],
-  "version": "0.1.14"
+  "version": "0.2.0"
 }
