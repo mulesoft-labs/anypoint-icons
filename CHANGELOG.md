@@ -1,3 +1,17 @@
+<a name="0.2.1"></a>
+## [0.2.1](https://github.com/advanced-rest-client/anypoint-icons/compare/0.1.11...0.2.1) (2017-11-08)
+
+
+### Update
+
+* Created replacement for ARC icons. ([6f7682047a52440ee182bbfbe49e25ebce304c80](https://github.com/advanced-rest-client/anypoint-icons/commit/6f7682047a52440ee182bbfbe49e25ebce304c80))
+* Updated license information to match Anypoint licence ([fc11875409247859647773e11b67e71aff91a69b](https://github.com/advanced-rest-client/anypoint-icons/commit/fc11875409247859647773e11b67e71aff91a69b))
+* updated lint command ([d184d15804bed96682e2117c347624c32cde14f1](https://github.com/advanced-rest-client/anypoint-icons/commit/d184d15804bed96682e2117c347624c32cde14f1))
+* Updated lint command to match new polymer linter api ([43a1e965a74ab574d80b1f67214edf95843e144b](https://github.com/advanced-rest-client/anypoint-icons/commit/43a1e965a74ab574d80b1f67214edf95843e144b))
+* Updated spelling in docs ([f7eb935785d5946376ed76889ac7e08c707dc045](https://github.com/advanced-rest-client/anypoint-icons/commit/f7eb935785d5946376ed76889ac7e08c707dc045))
+
+
+
 <a name="0.1.14"></a>
 ## [0.1.14](https://github.com/advanced-rest-client/anypoint-icons/compare/0.1.11...0.1.14) (2017-09-13)
 
