@@ -1,3 +1,13 @@
+<a name="0.2.5"></a>
+## [0.2.5](https://github.com/advanced-rest-client/anypoint-icons/compare/0.2.4...0.2.5) (2017-11-09)
+
+
+### Update
+
+* Updating add icon. ([d755c0b28ec1189fca783d973aecfd6258052121](https://github.com/advanced-rest-client/anypoint-icons/commit/d755c0b28ec1189fca783d973aecfd6258052121))
+
+
+
 <a name="0.2.4"></a>
 ## [0.2.4](https://github.com/advanced-rest-client/anypoint-icons/compare/0.2.3...0.2.4) (2017-11-09)
 
