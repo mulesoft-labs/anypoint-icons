@@ -1,3 +1,9 @@
+<a name="0.2.7"></a>
+## [0.2.7](https://github.com/advanced-rest-client/anypoint-icons/compare/0.2.6...0.2.7) (2017-11-09)
+
+
+
+
 <a name="0.2.6"></a>
 ## [0.2.6](https://github.com/advanced-rest-client/anypoint-icons/compare/0.2.5...0.2.6) (2017-11-09)
 
