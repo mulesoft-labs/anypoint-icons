@@ -1,3 +1,13 @@
+<a name="0.2.8"></a>
+## [0.2.8](https://github.com/advanced-rest-client/anypoint-icons/compare/0.2.7...0.2.8) (2018-02-02)
+
+
+### Update
+
+* Added missing icons from ARC to match ARC implementation. ([a8b5c117a1fe9da232501927c0420312e5e78a65](https://github.com/advanced-rest-client/anypoint-icons/commit/a8b5c117a1fe9da232501927c0420312e5e78a65))
+
+
+
 <a name="0.2.7"></a>
 ## [0.2.7](https://github.com/advanced-rest-client/anypoint-icons/compare/0.2.6...0.2.7) (2017-11-09)
 
