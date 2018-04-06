@@ -1,0 +1,83 @@
+{
+  "schema_version": "1.0.0",
+  "elements": [
+    {
+      "description": "*Note:** This is closed software and you can't use it in your projects unless\nyou are a Mulesoft employee working on internall project.\n\nA set of Anypoint icons to be used with ARC web components.\nThey occupy the same namespace as ARC icons set.\n\nUse them in bower.json like this:\n\n```\n\"dependencies\": {\n  ...\n  \"arc-icons\": \"advanced-rest-clinet/anypoint-icons\"\n}\n```\nBe sure to put it to the end of the dependencies so it won't be replaced with original\nARC icons by other comnponent.\n\nInclude library into the document / element:\n```\n<link rel=\"import\" href=\"../arc-icons/arc-icons.html\">\n```\n\nTo use an icon from this set you should prefix `iron-icon` with the `arc`, followed by a colon, \":\", and then the icon id.\n\nExample using the directions-bus icon from the maps icon set:\n```\n<iron-icon icon=\"arc:add\"></iron-icon>\n```",
+      "summary": "",
+      "path": "arc-icons.html",
+      "properties": [],
+      "methods": [],
+      "staticMethods": [],
+      "demos": [
+        {
+          "url": "demo/index.html",
+          "description": "demo"
+        },
+        {
+          "url": "demo/index.html",
+          "description": ""
+        }
+      ],
+      "metadata": {},
+      "sourceRange": {
+        "start": {
+          "line": 8,
+          "column": 0
+        },
+        "end": {
+          "line": 42,
+          "column": 3
+        }
+      },
+      "privacy": "public",
+      "superclass": "HTMLElement",
+      "attributes": [],
+      "events": [],
+      "styling": {
+        "cssVariables": [],
+        "selectors": []
+      },
+      "slots": [],
+      "tagname": "anypoint-icons"
+    },
+    {
+      "description": "*Note:** This is closed software and you can't use it in your projects unless\nyou are a Mulesoft employee working on internall project.\n\nA set of Anypoint icons to be used in web components.\n\nInclude library into the document / element:\n```\n<link rel=\"import\" href=\"../anypoint-icons/anypoint-icons.html\">\n```\n\nTo use an icon from this set you should prefix `iron-icon` with the `anypoint`, followed by a colon, \":\", and then the icon id.\n\nExample using the directions-bus icon from the maps icon set:\n```\n<iron-icon icon=\"anypoint:application\"></iron-icon>\n```",
+      "summary": "",
+      "path": "anypoint-icons.html",
+      "properties": [],
+      "methods": [],
+      "staticMethods": [],
+      "demos": [
+        {
+          "url": "demo/index.html",
+          "description": "demo"
+        },
+        {
+          "url": "demo/index.html",
+          "description": ""
+        }
+      ],
+      "metadata": {},
+      "sourceRange": {
+        "start": {
+          "line": 8,
+          "column": 0
+        },
+        "end": {
+          "line": 30,
+          "column": 3
+        }
+      },
+      "privacy": "public",
+      "superclass": "HTMLElement",
+      "attributes": [],
+      "events": [],
+      "styling": {
+        "cssVariables": [],
+        "selectors": []
+      },
+      "slots": [],
+      "tagname": "anypoint-icons"
+    }
+  ]
+}
