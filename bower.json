@@ -1,43 +1,37 @@
 {
   "name": "anypoint-icons",
   "description": "Anypoint icon set",
-  "authors": [
-    "The Advanced REST Client authors"
-  ],
+  "version": "2.0.0",
+  "license": "(C) MuleSoft. All rights reserved.",
+  "author": "Pawel Psztyc",
   "keywords": [
     "web-components",
-    "polymer",
-    "icons",
-    "anypoint"
+    "anypoint",
+    "icons"
   ],
   "private": true,
-  "main": [
-    "anypoint-icons.html",
-    "arc-icons.html"
-  ],
+  "main": "anypoint-icons.html",
   "repository": {
     "type": "git",
-    "url": "git@github.com:advanced-rest-client/anypoint-icons.git"
+    "url": "git@github.com:mulesoft-labs/anypoint-icons.git"
   },
   "dependencies": {
-    "iron-icon": "PolymerElements/iron-icon#^1.0.10",
-    "iron-iconset-svg": "PolymerElements/iron-iconset-svg#^1.0.9",
-    "polymer": "Polymer/polymer#^1.0.0"
+    "iron-icon": "PolymerElements/iron-icon#^2.0.0",
+    "iron-iconset-svg": "PolymerElements/iron-iconset-svg#^2.0.0",
+    "polymer": "Polymer/polymer#^2.0.0"
   },
   "devDependencies": {
-    "paper-styles": "polymerelements/paper-styles#^1.0.2",
-    "iron-component-page": "polymerelements/iron-component-page#1.0.0",
-    "iron-flex-layout": "polymerelements/iron-flex-layout#^1.0.0",
-    "iron-meta": "polymerelements/iron-meta#^1.0.0",
-    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
+    "iron-demo-helpers": "PolymerElements/iron-demo-helpers#^2.0.0",
+    "web-component-tester": "Polymer/web-component-tester#^6.0.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^1.0.0",
+    "iron-component-page": "PolymerElements/iron-component-page#^3.0.1",
+    "iron-test-helpers": "PolymerElements/iron-test-helpers#^2.0.0"
   },
   "ignore": [
-    ".editorconfig",
-    ".gitattributes",
-    ".gitignore",
-    ".jsbeautifyrc",
-    ".jscsrc",
-    ".jshintrc"
-  ],
-  "version": "0.2.9"
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tasks"
+  ]
 }

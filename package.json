@@ -1,27 +1,22 @@
 {
   "name": "anypoint-icons",
-  "version": "0.2.9",
-  "license": "LICENSE.md",
   "description": "Anypoint icons set.",
+  "version": "2.0.0",
+  "license": "(C) MuleSoft. All rights reserved.",
+  "author": "Pawel Psztyc",
   "devDependencies": {
-    "polymer-cli": "^0.17.0"
+    "@polymer/gen-typescript-declarations": "^1.1.1"
   },
-  "engines": {
-    "node": ">=0.10.0"
-  },
-  "private": false,
-  "main": [
-    "arc-icons.html"
-  ],
-  "author": "The Advanced REST client authors",
+  "private": true,
+  "main": "arc-icons.html",
   "scripts": {
-    "serve": "node_modules/.bin/polymer serve",
-    "lint": "node_modules/.bin/polymer lint anypoint-icons.html",
-    "deps": "npm install --quiet && bower install --quiet",
-    "update-deps": "npm update --quiet && bower update --quiet"
+    "lint": "polymer lint anypoint-icons.html arc-icons.html",
+    "test-sauce": "polymer test --plugin sauce --job-name \"anypoint-icons:local-test\"",
+    "test": "polymer test --plugin local",
+    "update-types": "gen-typescript-declarations --deleteExisting --outDir ."
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/advanced-rest-client/anypoint-icons.git"
+    "url": "git://github.com/mulesoft-labs/anypoint-icons.git"
   }
 }

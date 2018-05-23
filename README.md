@@ -18,4 +18,3 @@ Example using the directions-bus icon from the maps icon set:
 ```
 <iron-icon icon="anypoint:application"></iron-icon>
 ```
-
